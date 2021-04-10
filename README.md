@@ -3,7 +3,7 @@ C source files contained in the C Programming language book.
 
 ## The book
 The book mentioned is the "The C Programming Language" book written by Brian Kernighan and Dennis Ritchie 
-(who design and implemented the language).
+(who designed and implemented the language).
 
 *For more info on the book, refer to this <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language">link.</a>*
 
