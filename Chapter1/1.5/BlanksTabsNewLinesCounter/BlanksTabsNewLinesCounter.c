@@ -11,12 +11,10 @@ int main() {
     while ((currentChar = getchar()) != EOF) {
         if (currentChar == ' ')
             ++blanksCounter;
-        if (currentChar == '\t') {
+        if (currentChar == '\t')
             ++tabsCounter;
-        }
-        if (currentChar == '\n') {
+        if (currentChar == '\n')
             ++newLinesCounter;
-        }
     }
     
     printf("%d", blanksCounter);
